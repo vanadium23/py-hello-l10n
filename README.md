@@ -6,3 +6,5 @@ Just try it by yourself:
 ```
 LANGUAGE=ru python hello_l10n/hello.py
 ```
+
+Full text can be found on [blog](http://vanadium23.me/l10n-in-python/).
